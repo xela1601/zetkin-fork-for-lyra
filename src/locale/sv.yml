@@ -12,6 +12,10 @@ core:
       använda. Du omdirigeras nu till den äldre versionen av Zetkin som stödjer
       den funktionen.
 feat:
+  areas:
+    areas:
+      default:
+        title: hi
   breadcrumbs:
     elements:
       activities: Aktiviteter
@@ -2603,10 +2607,15 @@ zui:
     multiDayToday: Idag - {endDate}
     singleDay: '{date}'
     singleDayToday: Idag
+  duration:
+    m: hiii
+    s: servus
   editTextInPlace:
     tooltip:
       edit: Klicka för att redigera
       noEmpty: Den här får inte vara tom
+  editableImage:
+    add: hihi
   futures:
     errorLoading: Något gick fel när datan laddades upp.
   header:
@@ -2625,6 +2634,7 @@ zui:
       this: Endast {org}
   organizeSidebar:
     filter: Skriv för att filtrera
+    geography: hoho
     home: Hem
     journeys: Journeys
     people: Människor
@@ -2645,8 +2655,14 @@ zui:
     noResult: Hittade ingen person som matchade
     search: Skriv för att börja söka
     searching: Söker...
+  publicFooter:
+    links:
+      privacy: hi
+    privacyPolicyLink: servus
+    text: sdsfsd
   snackbar:
     error: Åh nej, något gick fel!
+    info: servus
     success: Framgång
     warning: Varning!
   submitOrCancel:
