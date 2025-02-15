@@ -2645,8 +2645,11 @@ zui:
     noResult: Hittade ingen person som matchade
     search: Skriv för att börja söka
     searching: Söker...
+  publicFooter:
+    text: sdsfsd
   snackbar:
     error: Åh nej, något gick fel!
+    info: servus
     success: Framgång
     warning: Varning!
   submitOrCancel:
