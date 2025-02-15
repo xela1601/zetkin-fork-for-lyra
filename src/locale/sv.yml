@@ -2647,6 +2647,7 @@ zui:
     searching: Söker...
   snackbar:
     error: Åh nej, något gick fel!
+    info: schinken
     success: Framgång
     warning: Varning!
   submitOrCancel:
