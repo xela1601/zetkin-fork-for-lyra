@@ -2853,6 +2853,7 @@ zui:
     text: Zetkin ist eine Plattform...
   snackbar:
     error: Oh nein, etwas ist schief gegangen.
+    info: test
     success: Erfolg!
     warning: Achtung!
   submitOrCancel:
