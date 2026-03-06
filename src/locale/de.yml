@@ -3841,3 +3841,11 @@ zui:
     noOptionsText: Kein Ort passt zu deiner Suche
     placeholder: Tippe, um nach einem Ort zu suchen
     timeZone: Zeitzone
+feat:
+  organizations:
+    eventPage:
+      contactPerson:
+        default: {name} ist die Kontaktperson
+  emails:
+    urlCard:
+      nowAccepting: Jeder kann die E-Mail mit diesem Link sehen
