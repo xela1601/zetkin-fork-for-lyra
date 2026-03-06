@@ -1225,6 +1225,8 @@ feat:
       info: Du hast den Massen-E-Mail-Versand abbestellt.
     varDefaults:
       target: Leser*in
+    urlCard:
+      nowAccepting: Jeder kann die E-Mail mit diesem Link sehen
   events:
     addPerson:
       addButton: Person hinzufügen
@@ -2055,6 +2057,8 @@ feat:
       participatingInfo: '{participatingCount, plural, =1 {# person is} other {#
         persons are}} nehmen teil'
       today: Heute
+      contactPerson:
+        default: {name} ist die Kontaktperson
     gen3:
       description: Das ist die neue (generation 3) Web App für Organisator*innen. Wenn
         du an die alte Version gewöhnt bist, wirst du hier viele neue Funktionen
